@@ -1,1 +1,1 @@
-# Master-s-thesis---Ritika-and-Julie
+# Master-thesis---Ritika-and-Julie
