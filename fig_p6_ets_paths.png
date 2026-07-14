@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+
+# Python environments
+venv/
+env/
+
+# VS Code settings (optional)
+.vscode/
+
+# Large data (VERY IMPORTANT for you later)
+data/raw/
