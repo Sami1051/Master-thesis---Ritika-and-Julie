@@ -1,0 +1,15 @@
+# Pinned dependencies for CCS_TEA_Model.ipynb and the appendix notebooks.
+#
+# These versions are known-good (verified by actually running Appendix A and B
+# end-to-end in this environment). If you generated the thesis's original results
+# in a different environment, replace these with the output of:
+#     pip freeze | grep -iE "numpy|pandas|scipy|matplotlib"
+# run from that original environment, so the pinned versions match what actually
+# produced the reported numbers — not just versions known to work.
+
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+matplotlib==3.10.8
+jupyter==1.0.0
+nbformat==5.10.4
